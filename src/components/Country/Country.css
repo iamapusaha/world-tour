@@ -4,3 +4,8 @@
     padding: 15px;
     border-radius: 15px;
 }
+
+.img-width {
+    height: 250px;
+    width: 400px;
+}
